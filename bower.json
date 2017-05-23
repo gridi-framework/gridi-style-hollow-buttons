@@ -15,7 +15,7 @@
         "buttons",
         "hollow"
     ],
-    "homepage": "https://github.com/gridi-style/gridi-style-hollow-buttons",
+    "homepage": "https://github.com/gridi-framework/gridi-style-hollow-buttons",
     "ignore": [
         "**/.*",
         "**/*.md",
